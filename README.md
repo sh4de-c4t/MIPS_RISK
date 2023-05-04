@@ -18,5 +18,5 @@ DESIGN OF A 32-BIT RISC BASED MIPS PROCESSOR USING VERILOG
 | Or | R | R[rd] = R[rs] \| R[rt] | or $rd, $rs, $rt |
 | Set Less Than | R | R[rd] = (R[rs] < R[rt]) ? 1 : 0 | slt $rd, $rs, $rt |
 
-
+![The MIPS Processor](https://github.com/sh4de-c4t/MIPS_RISK/blob/main/image/MIPS.png)
 ## Todo
