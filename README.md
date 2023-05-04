@@ -20,3 +20,4 @@ DESIGN OF A 32-BIT RISC BASED MIPS PROCESSOR USING VERILOG
 
 ![The MIPS Processor](https://github.com/sh4de-c4t/MIPS_RISK/blob/main/image/MIPS.png)
 ## Todo
+test bench
